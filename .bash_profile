@@ -1,6 +1,6 @@
 export PATH=/usr/local/bin:/usr/local/sbin:/usr/bin:$PATH
 
-# Use macvim (requires 'brew install macvim')
+# Use macvim (requires 'brew cask install macvim')
 alias vim='mvim'
 # Use ripgrep (requires 'brew install ripgrep')
 alias grep='rg'
